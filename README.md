@@ -23,8 +23,7 @@ AR salon website can also be designed with a range of other features to enhance 
 (i) Search Product <br>
 (ii) View Product <br>
 (iii) Create Order <br>
-(iv) Change Email & Password <br>
-(v) Can View Previous Order with UPDATE and DELETE <br>
+(iv) Can View Previous Order Details <br>
 
 ### Admin
 (i) Add New Product <br>
